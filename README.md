@@ -1,4 +1,4 @@
-## Thanks for popping by :wave:
+## Thanks for popping by :gun:
 
 I am Dolan, a software developer for [@blackrock](https://www.blackrock.com/). I am a tech enthusiast & an open-source advocate. I am the author of `docx`
 
