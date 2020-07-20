@@ -2,7 +2,7 @@
 
 I am Dolan, a software developer for [@blackrock](https://www.blackrock.com/). I am a tech enthusiast & an open-source advocate. I am the author of `docx`
 
-[![Linkedin Badge](https://img.shields.io/badge/-dolanmiu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dolanmiu/)](https://www.linkedin.com/in/dolanmiu/)
+[![Linkedin Badge](https://img.shields.io/badge/-dolan1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dolan1/)](https://www.linkedin.com/in/dolan1/)
 [![Instagram Badge](https://img.shields.io/badge/-plantingtheegg-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/plantingtheegg/)](https://instagram.com/plantingtheegg)
 [![Medium Badge](https://img.shields.io/badge/-@dolanmiu-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dolanmiu/)](https://medium.com/@dolanmiu)
 
@@ -30,7 +30,7 @@ I am Dolan, a software developer for [@blackrock](https://www.blackrock.com/). I
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Firebase](https://img.shields.io/badge/firebase-039BE5?style=flat-square&logo=firebase)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
