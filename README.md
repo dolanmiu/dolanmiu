@@ -12,6 +12,7 @@ I am Dolan, a software developer for [@blackrock](https://www.blackrock.com/). I
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-E34A86?style=flat-square&logo=intellij-idea)
+![Fork](https://img.shields.io/badge/-Fork-1ba3ef?style=flat-square&logo=git&logoColor=white)
 
 
 ## ⚡ Technologies
