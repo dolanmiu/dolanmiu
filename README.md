@@ -44,4 +44,11 @@ I am Dolan, a software developer for [@blackrock](https://www.blackrock.com/). I
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dolanmiu&show_icons=true)
 
+### 👨‍💻 LeetCode
+
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=dolanmiu)
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dolanmiu.dolanmiu)
+
+
+
