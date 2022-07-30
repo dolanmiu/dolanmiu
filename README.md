@@ -48,6 +48,10 @@ I am Dolan, a software developer for [@blackrock](https://www.blackrock.com/). I
 
 [![LeetCode Stats](https://leetcode.card.workers.dev/dolanmiu?theme=auto&font=baloo&extension=activity&cache=0)](https://leetcode.com/dolanmiu/)
 
+### 🏆 CodersRank
+
+<img width="400" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dolanmiu&branding=false" href="https://profile.codersrank.io/user/dolanmiu" target="_blank" />
+
 ### <img width="25" src="https://www.shareicon.net/download/2016/07/09/118723_stack.ico" /> Stack Overflow
 
 <a href="https://stackoverflow.com/users/3481582/dolan"><img src="https://stackoverflow.com/users/flair/3481582.png" width="208" height="58" alt="profile for Dolan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Dolan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
