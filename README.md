@@ -48,9 +48,11 @@ I am Dolan, a software developer. I am a tech enthusiast & an open-source advoca
 
 [![LeetCode Stats](https://leetcode.card.workers.dev/dolanmiu?theme=auto&font=baloo&extension=activity&cache=0)](https://leetcode.com/dolanmiu/)
 
+<!--
 ### 🏆 CodersRank
 
 <img width="400" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dolanmiu&branding=false" href="https://profile.codersrank.io/user/dolanmiu" target="_blank" />
+-->
 
 ### <img width="25" src="https://www.shareicon.net/download/2016/07/09/118723_stack.ico" /> Stack Overflow
 
