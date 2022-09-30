@@ -1,6 +1,6 @@
 ## Thanks for popping by :gun:
 
-I am Dolan, a software developer for [@blackrock](https://www.blackrock.com/). I am a tech enthusiast & an open-source advocate. I am the author of `docx`
+I am Dolan, a software developer. I am a tech enthusiast & an open-source advocate. I am the author of `docx`
 
 [![Linkedin Badge](https://img.shields.io/badge/-dolan1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dolan1/)](https://www.linkedin.com/in/dolan1/)
 [![Instagram Badge](https://img.shields.io/badge/-plantingtheegg-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/plantingtheegg/)](https://instagram.com/plantingtheegg)
